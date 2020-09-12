@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9af957c3.chunk.css",
+    "main.js": "/static/js/main.060d4c6d.chunk.js",
+    "main.js.map": "/static/js/main.060d4c6d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c34c0ec6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c34c0ec6.js.map",
+    "static/js/2.aafd07ea.chunk.js": "/static/js/2.aafd07ea.chunk.js",
+    "static/js/2.aafd07ea.chunk.js.map": "/static/js/2.aafd07ea.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.ee46e5471a77377ef76be42bbd7ef48d.js": "/precache-manifest.ee46e5471a77377ef76be42bbd7ef48d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.9af957c3.chunk.css.map": "/static/css/main.9af957c3.chunk.css.map",
+    "static/js/2.aafd07ea.chunk.js.LICENSE.txt": "/static/js/2.aafd07ea.chunk.js.LICENSE.txt",
+    "static/media/EEUMLOGO.png": "/static/media/EEUMLOGO.e0bfa30e.png",
+    "static/media/c++.svg": "/static/media/c++.524c3ab7.svg",
+    "static/media/haskell.svg": "/static/media/haskell.5b33dd64.svg",
+    "static/media/java.svg": "/static/media/java.c85ca67d.svg",
+    "static/media/js.svg": "/static/media/js.bb7f57a9.svg",
+    "static/media/me.jpg": "/static/media/me.52259deb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c34c0ec6.js",
+    "static/js/2.aafd07ea.chunk.js",
+    "static/css/main.9af957c3.chunk.css",
+    "static/js/main.060d4c6d.chunk.js"
+  ]
+}
